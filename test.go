@@ -41,6 +41,8 @@ type Rets struct {
 func main() {
 	fmt.Println(strconv.FormatFloat(float64(99999999999)/float64(100), 'f', -1, 64))
 	print(11)
+	print(11)
+
 }
 
 func test11(a int) {
